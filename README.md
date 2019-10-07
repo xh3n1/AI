@@ -1,2 +1,2 @@
-# AI
+# AI - Simple Reflex Agent
 Vacuum Cleaner 
